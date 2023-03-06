@@ -1,5 +1,4 @@
 <div align=center>
-	<h3>프론트엔드 개발자를 지망하는 김석재입니다.</h3>
 	<br>
 	<div>:seedling:Languages:seedling:</div>  
 	<br>
